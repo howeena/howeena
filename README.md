@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @howeena
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning javascript
+  
 ~~- 💞️ I’m looking to collaborate on ...~~
+
 - 📫 How to reach me howeeena@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: the fur on my dog looks like a suit
