@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @howeena
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning FrontEnd, C# and Android Development
   
 ~~- 💞️ I’m looking to collaborate on ...~~
 
